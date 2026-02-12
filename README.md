@@ -10,3 +10,5 @@ Personal portfolio website built using HTML, CSS and JavaScript.
 - Deployed on GitHub Pages
 
 
+#live demo 
+https://tn-p.github.io/portfolio-website/
